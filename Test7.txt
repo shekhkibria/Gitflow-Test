@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 This is test 7.2
-=======
-This is test 7.1 
->>>>>>> 6d33442bbe72d9b5c2ec214b51b3b5d2e2cfe929
